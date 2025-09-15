@@ -19,6 +19,7 @@ A piece of paper was added to the top of the matrix to improve visibility.
 https://github.com/user-attachments/assets/95d2fdba-5c86-4e3a-861d-5f381df1673b
 
 **Credits:**
+
 The technique to display multiple digits was discovered by this blog: https://www.hackster.io/mdraber/digital-clock-with-arduino-uno-rev4-wifi-s-rtc-an-led-matrix-484d2e
 
 
